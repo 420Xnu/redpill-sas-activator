@@ -7,5 +7,5 @@ doesn't indicate native SAS support.
 
 
 ## Installation
-Use `ext-manager.sh add 'https://raw.githubusercontent.com/RedPill-TTG/redpill-sas-activator/master/rpext-index.json'` 
+Use `ext-manager.sh add 'https://raw.githubusercontent.com/420Xnu/redpill-sas-activator/master/rpext-index.json'` 
 to add the module to your image.
